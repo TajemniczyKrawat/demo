@@ -370,3 +370,6 @@ class Gospodarstwo extends Budynek {
         }
     }
 }
+
+//to tylko komentarz do cwiczenia git'a
+//kolejna linijka kodu
